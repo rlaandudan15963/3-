@@ -17,7 +17,7 @@ namespace ConsoleApp2
                 a = int.Parse(Console.ReadLine());
                 if (a > 0) { Console.WriteLine("this number is  positive  number "); }
                 else if (a == 0) { Console.WriteLine("this number  is zero"); }
-                else if (a < 0) { Console.WriteLine("this number  is  negative number"); }
+                else if (a < 0) { Console.WriteLine("this number  is  negative  number"); }
             }
             catch { Console.WriteLine("this is not a number"); }       
         }

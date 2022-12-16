@@ -14,7 +14,7 @@ namespace ConsoleApp3
             double b = 3.54;
             Console.WriteLine("{0}, {1}", a, b);
             Console.WriteLine("a = {0}, 0Xa = {0:X}", a);
-            Console.WriteLine("caca = {0} = {0:E}", b);
+            Console.WriteLine("c1aca = {0} = {0:E}", b);
             Console.WriteLine("a = {0:X} = {0:E} = {0:N} = {0:C}", a);
         }
     }

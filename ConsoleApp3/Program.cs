@@ -16,7 +16,7 @@ namespace ConsoleApp3
             Console.WriteLine("a = {0}, 0Xa = {0:X}", a);
             Console.WriteLine("b = {0} = {0:E}", b);
             Console.WriteLine("a = {0:X} = {0:E} = {0:N} = {0:C}", a);
-            Console.WriteLine("132")
+            Console.WriteLine("1342")
         }
     }
 }

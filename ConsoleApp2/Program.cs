@@ -13,7 +13,7 @@ namespace ConsoleApp2
             int a;
             try
             {
-                Console.Write("write number : ");
+                Console.Write("write  number : ");
                 a = int.Parse(Console.ReadLine());
                 if (a > 0) { Console.WriteLine("this number is  positive  number "); }
                 else if (a == 0) { Console.WriteLine("this number  is zero"); }

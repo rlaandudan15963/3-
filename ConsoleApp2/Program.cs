@@ -19,7 +19,7 @@ namespace ConsoleApp2
                 else if (a == 0) { Console.WriteLine("this number  is zero"); }
                 else if (a < 0) { Console.WriteLine("this number  is  negative  number"); }
             }
-            catch { Console.WriteLine("this is not a number"); }       
+            catch { Console.WriteLine("this is not  a number"); }       
         }
     }
 }
